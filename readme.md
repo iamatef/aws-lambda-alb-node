@@ -38,15 +38,15 @@ To use this demonstration, follow these steps:
  
 3. **Configure ALB**: Set up an AWS Application Load Balancer and configure it to forward requests to your Lambda function.
 
-!(alb)[imgs/alb.png]
-
+![alb](imgs/alb.png)
+ 
 4. **Testing**: Access the ALB's URL in your web browser or using an HTTP client, and you should receive a response with "hello from lambda."
 
 !(alb sucess)[imgs/hello.png]
 
 5. **Logs**: You can view the logs for the Lambda function in CloudWatch.
 
-!(logs)[imgs/logs.png]
+![logs](imgs/logs.png)
 
 
 
