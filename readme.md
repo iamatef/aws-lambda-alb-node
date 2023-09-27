@@ -42,11 +42,11 @@ To use this demonstration, follow these steps:
  
 4. **Testing**: Access the ALB's URL in your web browser or using an HTTP client, and you should receive a response with "hello from lambda."
 
-!(alb sucess)[imgs/hello.png]
+![alb sucess](imgs/hello.png)
 
 5. **Logs**: You can view the logs for the Lambda function in CloudWatch.
 
-![logs](imgs/logs.png)
+![logs](imgs/log.png)
 
 
 
