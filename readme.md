@@ -2,6 +2,8 @@
 
 This repository provides a demonstration of how to use AWS Lambda with an AWS Application Load Balancer (ALB). The included Lambda function responds with a simple "hello from lambda" message when triggered by the ALB.
 
+![diagram](imgs/diagram.png)
+
 ## Lambda Function Code
 
 Below is the code for the Lambda function used in this demonstration:
